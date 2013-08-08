@@ -1,4 +1,4 @@
 learning
 ========
 
-This is to keep the codes where I am learning from
+This is to keep all the codes that I am building while learning!
